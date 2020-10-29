@@ -1,0 +1,25 @@
+.c_display {
+  height: 170px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #fff; */
+  background: linear-gradient(to right bottom, white, #95afc0);
+  margin-top: 10px;
+  box-shadow: 0px 0px 25px -20px rgba(250, 150, 150, 0.75);
+}
+
+.secScreen {
+  /* margin-top: 20px; */
+  font-size: 15px;
+  letter-spacing: 3px;
+  font-family: 'Oswald', sans-serif;
+  color: #4834d4;
+}
+
+.primScreen {
+  font-size: 56px;
+  font-family: 'Oswald', sans-serif;
+}
+
